@@ -58,7 +58,8 @@ Add to cart
 
 Cart Page
 ![image](https://github.com/utkarshgupta04092003/ecommerce-using-fakestoreapi/assets/63789702/2646bd1a-7c17-4d00-b73f-0219ac52c417)
-
+Wishlist page 
+![image](https://drive.google.com/file/d/1MaU2x5HtpdcMTgPKJKNVODdo7BWt3-Tc/view?usp=drive_link)
 Checkout
 ![image](https://github.com/utkarshgupta04092003/ecommerce-using-fakestoreapi/assets/63789702/e4af8833-4a42-4bc2-8abd-5f5619288af0)
 

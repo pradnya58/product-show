@@ -42,7 +42,7 @@ My Shopping is a React-based ecommerce platform that utilizes technologies like 
 ## Screenshots
 
 Home Page
-![image](https://github.com/utkarshgupta04092003/ecommerce-using-fakestoreapi/assets/63789702/5742ab00-2a40-42ef-b0a0-2c849c11fd08)
+![image](https://github.com/pradnya58/product-show/blob/master/screenshots/Home.png)
 
 Product Listing
 ![image](https://github.com/utkarshgupta04092003/ecommerce-using-fakestoreapi/assets/63789702/9f70fcc4-2105-4703-9847-b92441396bb0)

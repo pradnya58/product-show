@@ -41,33 +41,35 @@ My Shopping is a React-based ecommerce platform that utilizes technologies like 
 
 ## Screenshots
 
-Home Page
-![image](https://github.com/pradnya58/product-show/blob/master/screenshots/Home.png)
+Full Page
+![image](https://github.com/pradnya58/product-show/blob/master/screenshots/full-page.png)
 
 Product Listing
-![image](https://github.com/utkarshgupta04092003/ecommerce-using-fakestoreapi/assets/63789702/9f70fcc4-2105-4703-9847-b92441396bb0)
+![image](https://github.com/pradnya58/product-show/blob/master/screenshots/Home.png)
 
 Filters
-![image](https://github.com/utkarshgupta04092003/ecommerce-using-fakestoreapi/assets/63789702/e56928d8-b96c-4ebe-bde6-ccdd64683fea)
+![image](https://github.com/pradnya58/product-show/blob/master/screenshots/Products.png)
+
+Pagination 
+![image](https://github.com/pradnya58/product-show/blob/master/screenshots/Products2.png)
 
 Product Details
-![image](https://github.com/utkarshgupta04092003/ecommerce-using-fakestoreapi/assets/63789702/69eee27e-26c0-43a7-a876-c6cdafaea005)
+![image](https://github.com/pradnya58/product-show/blob/master/screenshots/product-detail.png)
 
 Add to cart
-![image](https://github.com/utkarshgupta04092003/ecommerce-using-fakestoreapi/assets/63789702/b36f666a-0051-49cf-b343-f111d02bfcf2)
+![image](https://github.com/pradnya58/product-show/blob/master/screenshots/add-to-cart.png)
 
 Cart Page
-![image](https://github.com/utkarshgupta04092003/ecommerce-using-fakestoreapi/assets/63789702/2646bd1a-7c17-4d00-b73f-0219ac52c417)
+![image](https://github.com/pradnya58/product-show/blob/master/screenshots/cart-page.png)
+
 Wishlist page 
-![image](https://drive.google.com/file/d/1MaU2x5HtpdcMTgPKJKNVODdo7BWt3-Tc/view?usp=drive_link)
-Checkout
-![image](https://github.com/utkarshgupta04092003/ecommerce-using-fakestoreapi/assets/63789702/e4af8833-4a42-4bc2-8abd-5f5619288af0)
+![image](https://github.com/pradnya58/product-show/blob/master/screenshots/wishlist-page.png)
 
-Profile
-![image](https://github.com/utkarshgupta04092003/ecommerce-using-fakestoreapi/assets/63789702/a32231d0-cb21-44d7-ab12-f3cd88136796)
+Login
+![image](https://github.com/pradnya58/product-show/blob/master/screenshots/login.png)
 
-Light Mode
-![image](https://github.com/utkarshgupta04092003/ecommerce-using-fakestoreapi/assets/63789702/db939d8a-3697-4a09-b491-0b243000ad04)
+Dark Mode
+![image](https://github.com/pradnya58/product-show/blob/master/screenshots/dark-mode.png)
 
 ## How to Use
 
